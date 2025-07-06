@@ -1,0 +1,1 @@
+This project builds and evaluates machine learning models to classify breast cancer tumors as benign or malignant using the popular Breast Cancer Wisconsin Diagnostic Dataset. The goal is to assist in early and accurate detection of breast cancer through data-driven methods.
